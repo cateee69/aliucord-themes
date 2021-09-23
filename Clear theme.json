@@ -2,14 +2,14 @@
     "manifest": {
         "author": "cateee#5943",
         "name": "Clear theme",
-        "version": "1.0.2",
-        "updater": "https:\/\/raw.githubusercontent.com\/cateee69\/aliucord-themes\/main\/Clear%20theme.json"
+        "version": "1.0.1",
+        "updater": "https://raw.githubusercontent.com/cateee69/aliucord-themes/main/Clear%20theme.json"
     },
     "background": {
-        "url": "https:\/\/media.discordapp.net\/attachments\/886956274036654096\/890507389084790834\/photo-1579546929518-9e396f3cc809.jpg"
+        "url": "https://media.discordapp.net/attachments/886956274036654096/890507389084790834/photo-1579546929518-9e396f3cc809.jpg"
     },
     "fonts": {
-        "*": "https:\/\/raw.githubusercontent.com\/pekoexe\/AliucordThemes\/main\/assets\/Quicksand-Medium.ttf"
+        "*": "https://raw.githubusercontent.com/pekoexe/AliucordThemes/main/assets/Quicksand-Medium.ttf"
     },
     "simple_colors": {
         "accent": -2490290,
