@@ -1,0 +1,35 @@
+{
+    "manifest": {
+        "author": "cateee#5943",
+        "name": "Clear theme",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/886956274036654096\/890507389084790834\/photo-1579546929518-9e396f3cc809.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/raw.githubusercontent.com\/pekoexe\/AliucordThemes\/main\/assets\/Quicksand-Medium.ttf"
+    },
+    "simple_colors": {
+        "accent": -2490290,
+        "mention_highlight": 1613201101,
+        "active_channel": -690356146,
+        "statusbar": -2490290,
+        "background": 0,
+        "input_background": 0,
+        "background_secondary": 0
+    },
+    "colors": {
+        "link": -2490290,
+        "uikit_btn_bg_color_selector_red": -2673622,
+        "uikit_btn_bg_color_selector_green": -2673622
+    },
+    "drawable_tints": {
+        "ic_tab_mentions": -1574469939,
+        "drawable_overlay_mentions": -14188851,
+        "ic_status_streaming_16dp": -8110684,
+        "ic_status_idle_16dp": -1788928,
+        "ic_status_invisible_16dp": 1115784841,
+        "ic_mentions_empty": -5758896
+    }
+}
